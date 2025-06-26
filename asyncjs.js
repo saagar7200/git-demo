@@ -207,3 +207,5 @@ asyncFunc();
 // git checkout -b branch_name
 
 // git merge branch_name [merge changes form multiple local branch]
+
+// git remote -v
