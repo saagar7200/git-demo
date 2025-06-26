@@ -213,4 +213,5 @@ asyncFunc();
 // git remote add origin <repo_link>
 // git remote remove origin <repo_link>
 // git push origin <branch_name>
+// git pull origin <branch_name>
 //
